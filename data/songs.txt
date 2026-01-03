@@ -1,0 +1,11 @@
+1|Tujhe Kitna Chahne Lage|Arijit Singh|00:04:46|music/Tujhe_Kitna_Chahne_Lage_Arijit_Singh.mp3
+2|Agar Tum Saath Ho|Arijit Singh|00:05:41|music/Agar_Tum_Saath_Ho_Arijit_Singh.mp3
+3|Waka Waka|Shakira|00:03:21|music/Waka_Waka_Shakira.mp3
+4|Rap God|Eminem|00:06:09|music/Rap_God_Eminem.mp3
+5|7 Years|Lukas Graham|00:03:53|music/7_Years_Lukas_Graham.mp3
+6|Alone|Alan Walker|00:02:40|music/Alone_Alan_Walker.mp3
+7|Cradles|Sub Urban|00:03:29|music/Cradles_Sub_Urban.mp3
+8|The Nights|Avicii|00:02:53|music/The_Nights_Avicii.mp3
+9|Poker Face|Lady Gaga|00:03:57|music/Poker_Face_Lady_Gaga.mp3
+10|Paradise|Coldplay|00:04:34|music/Paradise_Coldplay.mp3
+11|Riptide|Vance Joy|00:03:24|music/Riptide_Vance_Joy.mp3
