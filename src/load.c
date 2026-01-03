@@ -25,7 +25,7 @@ Song* findSongById(int id) {
 }
 
 void loadMasterSongLibrary() {
-    FILE *fp = fopen("songs.txt", "r");
+    FILE *fp = fopen("data/songs.txt", "r");
     if (fp == NULL) {
         printf("Error: songs.txt not found!\n");
         return;
@@ -69,7 +69,7 @@ void loadMasterSongLibrary() {
 }
 
 void saveLibrary() {
-    FILE *fp = fopen("library.txt", "w");
+    FILE *fp = fopen("data/library.txt", "w");
     if (fp == NULL) {
         perror("Error saving library");
         return;
@@ -91,7 +91,7 @@ void saveLibrary() {
 }
 
 void loadLibrary() {
-    FILE *fp = fopen("library.txt", "r");
+    FILE *fp = fopen("data/library.txt", "r");
     if (fp == NULL) {
         return;
     }

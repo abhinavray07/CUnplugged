@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "cli.h"
+#include "../include/cli.h"
 #include "../include/load.h"
 #include "../include/playlist.h"
 

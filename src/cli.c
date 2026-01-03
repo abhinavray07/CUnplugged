@@ -44,7 +44,7 @@ void showPlaylistMenu() {
 }
 
 void logCommand(const char *command) {
-    FILE *fp = fopen("log.txt", "a");
+    FILE *fp = fopen("data/log.txt", "a");
     if (fp == NULL) {
         perror("Error opening log file");
         return;
@@ -54,7 +54,7 @@ void logCommand(const char *command) {
 }
 
 void showLog() {
-    FILE *fp = fopen("log.txt", "r");
+    FILE *fp = fopen("data/log.txt", "r");
     if (fp == NULL) {
         printf("No logs yet.\n");
         return;

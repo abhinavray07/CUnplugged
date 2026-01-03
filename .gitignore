@@ -1,8 +1,36 @@
-# Ignore music files
-music/
-*.mp3
-*.mp4
+# Executables
+CUnplugged
+CUnplugged.exe
+*.exe
+*.out
 
-# Ignore runtime files
-library.txt
-log.txt
+# Object files
+*.o
+*.obj
+
+# Generated data files (user-specific)
+data/library.txt
+data/log.txt
+
+# Music files (copyright and size concerns)
+music/*.mp3
+music/*.mp4
+music/*.wav
+music/*.flac
+music/*.m4a
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
